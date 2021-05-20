@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dil Se</string>
+    <string name="icon_content_desc">यह दिल से का प्रतीक है</string>
+    <string name="sign_in">दाखिल करना</string>
+    <string name="email">ईमेल</string>
+    <string name="password">कुंजिका</string>
+    <string name="forgot_password">पासवर्ड भूल गए?</string>
+    <string name="tagLine">अपने प्रियजनों के लिए प्यार का प्रतीक</string>
+    <string name="sign_up">साइन अप करें</string>
+    <string name="already">पहले से ही एक खाता है?</string>
+    <string name="full_name">पूरा नाम</string>
+    <string name="mobile_no">मोबाइल नंबर</string>
+    <string name="new_account">दिल से में नए हैं?</string>
+    <string name="login_error">साइन इन त्रुटि!</string>
+    <string name="login_error_desc">
+        आपको साइन इन करते समय एक त्रुटि हुई।
+        कृपया अपने नेटवर्क की जांच करें या दर्ज किए गए क्रेडेंशियल सही हैं या नहीं।
+    </string>
+    <string name="reset_pass_desc">दर्ज किए गए ईमेल में पासवर्ड रीसेट लिंक प्राप्त करने के लिए अपना ईमेल दर्ज करें।</string>
+    <string name="close_dialog">डायलॉग बंद करें</string>
+    <string name="home">घर</string>
+    <string name="your_orders">तुम्हारे ऑर्डर</string>
+    <string name="your_profile">आपकी प्रोफ़ाइल</string>
+    <string name="sign_out">प्रस्थान करें</string>
+    <string name="user_name">उपयोगकर्ता नाम</string>
+    <string name="open">खुला हुआ</string>
+    <string name="close">बंद करे</string>
+    <string name="languages">भाषा</string>
+    <string name="share">शेयर</string>
+    <string name="info">जानकारी</string>
+    <string name="top_deals">शीर्ष सौदे</string>
+    <string name="sign_out_desc">ऐसा लगता है कि आप साइन आउट कर रहे हैं। क्या आप वाकई साइन आउट करना चाहते हैं?</string>
+    <string name="search">खोज</string>
+    <string name="search_items">उत्पादों को खोजना</string>
+    <string name="user_info">उपयोगकर्ता जानकारी</string>
+    <string name="categories">श्रेणियाँ</string>
+    <string name="flowers">पुष्प</string>
+    <string name="cards">पत्ते</string>
+    <string name="soft_toys">मुलायम खिलौने</string>
+    <string name="earphones">इयरफ़ोन</string>
+    <string name="chocolates">चॉकलेट</string>
+    <string name="stationaries">स्टेशनरी</string>
+    <string name="version">v1.0</string>
+    <string name="buy_now">अभी खरीदें</string>
+    <string name="in_stock">स्टॉक में</string>
+    <string name="quantity">मात्रा</string>
+    <string name="item">मद</string>
+    <string name="brand">ब्रांड</string>
+    <string name="total_amount">संपूर्ण</string>
+    <string name="delivery_details">वितरण विवरण दर्ज करें</string>
+    <string name="enter_your_address">अपना पता दर्ज करें</string>
+    <string name="nearest_landmark">निकटवर्ती मील का पत्थर</string>
+    <string name="your_pin_code">आपका पिन कोड</string>
+    <string name="confirm_order">आदेश की पुष्टि</string>
+    <string name="back">वापस जाओ</string>
+    <string name="cancel">रद्द करना</string>
+    <string name="quantity_order">मात्रा -</string>
+    <string name="order_confirmed">ऑर्डर की पुष्टि की गई!</string>
+    <string name="confirm_desc">आपने अपना ऑर्डर सफलतापूर्वक दे दिया है !!</string>
+    <string name="infoQ1">दिल से ऐप क्या है?</string>
+    <string name="infoA1">
+        दिल से एक उपहार देने वाला ऐप है, जिसके द्वारा आप आसानी से अपने घर के आराम के साथ उपहार खरीद सकते हैं
+        और अपने प्रियजनों को उनकी पसंदीदा चीजें उपहार में दें। आपके दरवाजे पर ऑर्डर किया गया उत्पाद।
+        हम कॉन्टैक्ट लेस डिलीवरी प्रोटोकॉल का पालन करते हैं।
+    </string>
+    <string name="infoQ2">दिल से में किस तरह के आइटम मिलते हैं?</string>
+    <string name="infoA2">
+        दिल से कई तरह के उत्पादों की पूर्ति कर रहा है। यह विभिन्न प्रकार के फूल प्रदान करता है,
+        विभिन्न प्रकार के गिफ्ट कार्ड, सॉफ्ट टॉयज, बास बोस्टेड इयरफ़ोन, स्वादिष्ट चॉकलेट और a
+        स्थिर वस्तुओं की एक विस्तृत विविधता।
+    </string>
+    <string name="infoQ3">भुगतान विकल्प क्या हैं?</string>
+    <string name="infoA3">
+        दिल से केवल भुगतान की \"कैश ऑन डिलीवरी\" विधि प्रदान करता है। कोई अतिरिक्त नहीं हैं
+        शुल्क और न ही किसी प्रकार का वितरण शुल्क।
+    </string>
+    <string name="yes">हाँ</string>
+    <string name="ok">ठीक है</string>
+    <string name="sendLink">कड़ी भेजें</string>
+    <string name="price">कीमत</string>
+    <string-array name="quantity">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+</resources>

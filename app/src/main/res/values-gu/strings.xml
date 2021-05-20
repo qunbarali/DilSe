@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dil Se</string>
+    <string name="icon_content_desc">This is the icon of the Dil Se</string>
+    <string name="sign_in">સાઇન ઇન</string>
+    <string name="email">ઇમેઇલ</string>
+    <string name="password">પાસવર્ડ</string>
+    <string name="forgot_password">પાસવર્ડ ભૂલી ગયા છો?</string>
+    <string name="tagLine">તમારા પ્રેમભર્યા લોકો માટે પ્રેમનું ટોકન</string>
+    <string name="sign_up">સાઇન અપ કરો</string>
+    <string name="already">પહેલેથી ખાતું છે?</string>
+    <string name="full_name">પૂરું નામ</string>
+    <string name="mobile_no">મોબાઇલ નંબર</string>
+    <string name="new_account">નવી દિલ સે?</string>
+    <string name="login_error">સાઇન ઇન ભૂલ!</string>
+    <string name="login_error_desc">
+        તમને સાઇન ઇન કરતી વખતે ભૂલ આવી.
+        કૃપા કરીને તમારું નેટવર્ક તપાસો કે દાખલ કરેલા ઓળખપત્રો સાચા છે કે નહીં.
+    </string>
+    <string name="reset_pass_desc">
+        દાખલ કરેલા ઇમેઇલમાં પાસવર્ડ ફરીથી સેટ કરવાની લિંક મેળવવા માટે તમારું ઇમેઇલ દાખલ કરો.
+    </string>
+    <string name="close_dialog">સંવાદ બંધ કરો</string>
+    <string name="home">Home</string>
+    <string name="your_orders">તમારા ઓર્ડર</string>
+    <string name="your_profile">તમારી પ્રોફાઇલ</string>
+    <string name="sign_out">સાઇન આઉટ</string>
+    <string name="user_name">User Name</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="languages">ભાષા</string>
+    <string name="share">શેર કરો</string>
+    <string name="info">માહિતી</string>
+    <string name="top_deals">ટોચની ડીલ્સ</string>
+    <string name="sign_out_desc">એવું લાગે છે કે તમે સાઇન આઉટ કરી રહ્યાં છો. શું તમે ખરેખર સાઇન આઉટ કરવા માંગો છો?</string>
+    <string name="search">શોધો</string>
+    <string name="search_items">ઉત્પાદનો શોધો</string>
+    <string name="user_info">વપરાશકર્તા માહિતી</string>
+    <string name="categories">શ્રેણીઓ</string>
+    <string name="flowers">ફૂલો</string>
+    <string name="cards">કાર્ડ્સ</string>
+    <string name="soft_toys">નરમ રમકડાં</string>
+    <string name="earphones">ઇયરફોન</string>
+    <string name="chocolates">ચોકલેટ્સ</string>
+    <string name="stationaries">સ્ટેશનરીઓ</string>
+    <string name="version">v1.0</string>
+    <string name="buy_now">હમણાં જ ખરીદો</string>
+    <string name="in_stock">ઉપલબ્ધ છે</string>
+    <string name="quantity">જથ્થો</string>
+    <string name="item">વસ્તુ</string>
+    <string name="brand">બ્રાન્ડ</string>
+    <string name="total_amount">કુલ</string>
+    <string name="delivery_details">વિતરણ વિગતો દાખલ કરો</string>
+    <string name="enter_your_address">તમારું સરનામું દાખલ કરો</string>
+    <string name="nearest_landmark">નજીકનું લેન્ડમાર્ક</string>
+    <string name="your_pin_code">તમારો પિન કોડ</string>
+    <string name="confirm_order">ઓર્ડરની પુષ્ટિ કરો</string>
+    <string name="back">પાછા જાવ</string>
+    <string name="cancel">રદ કરો</string>
+    <string name="quantity_order">જથ્થો -</string>
+    <string name="order_confirmed">ઓર્ડર પુષ્ટિ!</string>
+    <string name="confirm_desc">તમે સફળતાપૂર્વક તમારો ઓર્ડર આપ્યો છે !!</string>
+    <string name="infoQ1">દિલ સે એપ્લિકેશન શું છે?</string>
+    <string name="infoA1">
+        દિલ સે એક ગિફ્ટિંગ એપ્લિકેશન છે, જેના દ્વારા તમે સરળતાથી તમારા ઘરની કમ્ફર્ટ સાથે ગિફ્ટ ખરીદી શકો છો
+        અને તમારા પ્રિયજનોને તેમની પ્રિય વસ્તુઓ ભેટ કરો. તમારા દરવાજાના પગલે ઓર્ડર કરેલ ઉત્પાદન.
+        અમે સંપર્ક ઓછો ડિલિવરી પ્રોટોકોલ અનુસરો.
+    </string>
+    <string name="infoQ2">દિલ સેમાં કેવા પ્રકારની વસ્તુઓ ઉપલબ્ધ છે?</string>
+    <string name="infoA2">
+        દિલ સે વિવિધ ઉત્પાદનોને પૂરી પાડે છે. તે વિવિધ પ્રકારના ફૂલો આપે છે,
+        ગિફ્ટ કાર્ડ્સ, સોફ્ટ ટોય્ઝ, બાસ બોસ્ટેડ ઇયરફોન, સ્વાદિષ્ટ ચોકલેટ અને એ
+        સ્થિર વસ્તુઓ વિવિધ.
+    </string>
+    <string name="infoQ3">ચુકવણી વિકલ્પો શું છે?</string>
+    <string name="infoA3">
+        દિલ સે ફક્ત ચુકવણીની \ "કેશ ઓન ડિલિવરી method" પદ્ધતિ પ્રદાન કરે છે. ત્યાં ન તો વધારે છે
+        ચાર્જ કે કોઈ પણ પ્રકારના ડિલિવરી ચાર્જ.
+    </string>
+    <string name="yes">હા</string>
+    <string name="ok">બરાબર</string>
+    <string name="sendLink">લિંક મોકલો</string>
+    <string name="price">કિંમત</string>
+    <string-array name="quantity">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+</resources>

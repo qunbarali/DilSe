@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dil Se</string>
+    <string name="icon_content_desc">This is the icon of the Dil Se</string>
+    <string name="sign_in">সাইন ইন করুন</string>
+    <string name="email">ইমেল</string>
+    <string name="password">পাসওয়ার্ড</string>
+    <string name="forgot_password">পাসওয়ার্ড ভুলে গেছেন?</string>
+    <string name="tagLine">আপনার প্রিয় মানুষদের জন্য প্রেমের টোকেন</string>
+    <string name="sign_up">নিবন্ধন করুন</string>
+    <string name="already">ইতিমধ্যে একটি সদস্যপদ আছে?</string>
+    <string name="full_name">পুরো নাম</string>
+    <string name="mobile_no">মোবাইল নম্বর</string>
+    <string name="new_account">নতুন তো দিল সে?</string>
+    <string name="login_error">সাইন ইন ত্রুটি!</string>
+    <string name="login_error_desc">
+        আপনাকে সাইন ইন করার সময় একটি ত্রুটি ঘটেছে।
+        দয়া করে আপনার নেটওয়ার্ক পরীক্ষা করুন বা প্রবেশ করানো শংসাপত্রগুলি সঠিক কিনা দেখুন।
+    </string>
+    <string name="reset_pass_desc">
+        প্রবেশ করা ইমেলটিতে একটি পাসওয়ার্ড রিসেট লিঙ্ক পেতে আপনার ইমেলটি প্রবেশ করুন।
+    </string>
+    <string name="close_dialog">কথোপকথনটি বন্ধ করুন</string>
+    <string name="home">Home</string>
+    <string name="your_orders">তোমার আদেশ</string>
+    <string name="your_profile">তোমার প্রোফাইল</string>
+    <string name="sign_out">সাইন আউট</string>
+    <string name="user_name">ব্যবহারকারীর নাম</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="languages">ভাষা</string>
+    <string name="share">ভাগ করুন</string>
+    <string name="info">জ্ঞান</string>
+    <string name="top_deals">শীর্ষ ব্যবসা</string>
+    <string name="sign_out_desc">মনে হচ্ছে আপনি সাইন আউট করছেন। আপনি কি সত্যিই সাইন আউট করতে চান?</string>
+    <string name="search">অনুসন্ধান করুন</string>
+    <string name="search_items">পণ্য অনুসন্ধান করুন</string>
+    <string name="user_info">ব্যবহারকারীর তথ্য</string>
+    <string name="categories">বিভাগসমূহ</string>
+    <string name="flowers">ফুল</string>
+    <string name="cards">তাস</string>
+    <string name="soft_toys">নরম খেলনা</string>
+    <string name="earphones">ইয়ারফোন</string>
+    <string name="chocolates">চকোলেট</string>
+    <string name="stationaries">স্টেশনারি</string>
+    <string name="version">v1.0</string>
+    <string name="buy_now">এখনকেনা</string>
+    <string name="in_stock">In stock</string>
+    <string name="quantity">পরিমাণ</string>
+    <string name="item">আইটেম</string>
+    <string name="brand">ব্র্যান্ড</string>
+    <string name="total_amount">মোট</string>
+    <string name="delivery_details">বিতরণ বিশদ লিখুন</string>
+    <string name="enter_your_address">আপনার ঠিকানা লিখুন</string>
+    <string name="nearest_landmark">নিকটতম ল্যান্ডমার্ক</string>
+    <string name="your_pin_code">আপনার পিন কোড</string>
+    <string name="confirm_order">আদেশ নিশ্চিত করুন</string>
+    <string name="back">ফিরে যাও</string>
+    <string name="cancel">বাতিল</string>
+    <string name="quantity_order">পরিমাণ -</string>
+    <string name="order_confirmed">আদেশ সমর্থন করা হলো!</string>
+    <string name="confirm_desc">আপনি সফলভাবে আপনার অর্ডার দিয়েছেন !!</string>
+    <string name="infoQ1">দিল সে অ্যাপ কি?</string>
+    <string name="infoA1">
+        দিল সে একটি উপহার দেওয়ার অ্যাপ্লিকেশন, যার মাধ্যমে আপনি সহজেই আপনার বাড়ির স্বাচ্ছন্দ্যের সাথে উপহার কিনতে পারেন
+        এবং আপনার প্রিয়জনদের তাদের প্রিয় আইটেম উপহার দিন। আপনার দরজার ধাপে অর্ডার করা পণ্য।
+        আমরা যোগাযোগ কম বিতরণ প্রোটোকল অনুসরণ করি।
+    </string>
+    <string name="infoQ2">দিল সেয়ে কী ধরণের আইটেম পাওয়া যায়?</string>
+    <string name="infoA2">
+        দিল সে বিভিন্ন পণ্য সরবরাহ করছে। এটি বিভিন্ন ধরণের ফুল সরবরাহ করে,
+        বিভিন্ন উপহার কার্ড, সফট খেলনা, বাস বোস্টেড ইয়ারফোন, সুস্বাদু চকোলেট এবং এ
+        স্থির আইটেম বিস্তৃত।
+    </string>
+    <string name="infoQ3">অর্থ প্রদানের বিকল্পগুলি কী কী?</string>
+    <string name="infoA3">
+        দিল সে কেবলমাত্র of \"নগদ অন বিতরণ \" প্রদানের পদ্ধতি সরবরাহ করে। অতিরিক্তও নেই
+        চার্জ বা কোনও ধরণের ডেলিভারি চার্জ নয়।
+    </string>
+    <string name="yes">হ্যাঁ</string>
+    <string name="ok">ঠিক আছে</string>
+    <string name="sendLink">লিঙ্ক পাঠান</string>
+    <string name="price">দাম</string>
+    <string-array name="quantity">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+</resources>

@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Dil Se</string>
+    <string name="icon_content_desc">This is the icon of the Dil Se</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="tagLine">A Token of Love for Your Loved Ones</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already">Already Have an Account?</string>
+    <string name="full_name">Full Name</string>
+    <string name="mobile_no">Mobile Number</string>
+    <string name="new_account">New To Dil Se?</string>
+    <string name="login_error">Sign In Error!</string>
+    <string name="login_error_desc">
+        An error occurred while signing you in.
+        Please check your network or whether the credentials entered are correct.
+    </string>
+    <string name="reset_pass_desc">Enter your email to get a password reset link in the email entered.</string>
+    <string name="close_dialog">Close the dialog</string>
+    <string name="home">Home</string>
+    <string name="your_orders">Your Orders</string>
+    <string name="your_profile">Your Profile</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="user_name">User Name</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="languages">Language</string>
+    <string name="share">Share</string>
+    <string name="info">Info</string>
+    <string name="top_deals">Top Deals</string>
+    <string name="sign_out_desc">It seems that you are signing out. Do you really want to sign out?</string>
+    <string name="search">Search</string>
+    <string name="search_items">Search Products</string>
+    <string name="user_info">User Info</string>
+    <string name="categories">Categories</string>
+    <string name="flowers">Flowers</string>
+    <string name="cards">Cards</string>
+    <string name="soft_toys">Soft Toys</string>
+    <string name="earphones">Earphones</string>
+    <string name="chocolates">Chocolates</string>
+    <string name="stationaries">Stationery</string>
+    <string name="version">v1.0</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="in_stock">In stock</string>
+    <string name="quantity">Quantity</string>
+    <string name="item">Item</string>
+    <string name="brand">Brand</string>
+    <string name="total_amount">Total</string>
+    <string name="delivery_details">Enter Delivery Details</string>
+    <string name="enter_your_address">Enter Your Address</string>
+    <string name="nearest_landmark">Nearest Landmark</string>
+    <string name="your_pin_code">Your Pin Code</string>
+    <string name="confirm_order">Confirm Order</string>
+    <string name="back">Go Back</string>
+    <string name="cancel">Cancel</string>
+    <string name="quantity_order">Quantity -</string>
+    <string name="order_confirmed">Order Confirmed!</string>
+    <string name="confirm_desc">You have successfully placed your order!!</string>
+    <string name="infoQ1">What is Dil Se App?</string>
+    <string name="infoA1">
+        Dil Se is a gifting app, by which you can easily buy gifts with the comforts of your home
+        and gift your loved ones their favourite items. The ordered product at your door step.
+        We follow contact less delivery protocol.
+    </string>
+    <string name="infoQ2">What kind of items are available in Dil Se?</string>
+    <string name="infoA2">
+        Dil Se is catering a variety of products. It offers different kinds of flowers,
+        variety of Gift Cards, Soft Toys, Bass Boasted Earphones, delicious chocolates and a
+        wide variety of stationary items.
+    </string>
+    <string name="infoQ3">What are the payment options?</string>
+    <string name="infoA3">
+        Dil Se only offers \"Cash On Delivery\" method of payment. There are neither extra
+        charges nor any kind of delivery charge.
+    </string>
+    <string name="yes">Yes</string>
+    <string name="ok">Ok</string>
+    <string name="sendLink">Send Link</string>
+    <string name="price">Price</string>
+    <string-array name="quantity">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+</resources>

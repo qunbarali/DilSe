@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1098267163816",
+    "project_id": "dil-se-3ce8c",
+    "storage_bucket": "dil-se-3ce8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098267163816:android:74499838be683c5195969d",
+        "android_client_info": {
+          "package_name": "com.example.dilse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098267163816-jihslp3k1kds8fie9q4h3c24md7et6h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmqSl727smT8p3j1AQYaRnLmV_40aHKTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098267163816-jihslp3k1kds8fie9q4h3c24md7et6h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

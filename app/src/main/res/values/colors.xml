@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="deep_redPink">#FF545B</color>
+    <color name="redPink">#FF9A9E</color>
+    <color name="error_color">#E42A32</color>
+    <color name="green">#217138</color>
+    <color name="red">#B12A37</color>
+    <color name="black">#FF000000</color>
+    <color name="subtitleColor">#817F7F</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
